@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "ACAA,OAAO,CAAC,yFAAI",
+    "sources": [
+        "index.scss",
+        "assets/scss/index.scss",
+        "assets/scss/_variables.scss",
+        "assets/scss/_mixin.scss"
+    ],
+    "names": [],
+    "file": "index.css"
+}
