@@ -4,6 +4,7 @@ import Header from './components/header';
 import Sidebar from './components/sidebar';
 import Manage from './pages/manage/index';
 import Dashboard from './pages/dashboard';
+import Products from './pages/products';
 
 // React-router-dom
 // npm install react-router-dom
