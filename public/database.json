@@ -216,5 +216,16 @@
                       "phone": "1-(618)312-3065",
                       "dateOfRegistry": "04/28/2015"
         }
-      ]
+      ],
+
+      "products": [{
+		"id": 0,
+		"productLogo": "https://www.pngkey.com/png/detail/55-556528_pic-avatars-for-jira-star-wars.png",
+		"companyLogo": "Петров Петр Петрович",
+		"title": "Dropbox",
+		"description": "dasdsadawdawfesfzsfzsfzesfzesdzssv",
+		"updatedTime": "2 hours",
+		"downloads": "343"
+	}]
+
     }
