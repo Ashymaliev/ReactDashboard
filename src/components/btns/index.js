@@ -20,6 +20,16 @@ export function PrimaryBtn({ text, handleClickModal }) {
   );
 }
 
+export function GreenBtn({ text, handleClickModal }) {
+  const classes = useStyles();
+  return (
+    <Button onClick={handleClickModal} className={classes.color} variant='contained' >
+      {text}
+    </Button>
+  );
+}
+
+
 export const BtnGoBack = () => {
   return (
     <button className='btn-back'>
