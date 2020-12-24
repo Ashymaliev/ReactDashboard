@@ -4,9 +4,9 @@ const ProductItem = () => {
   return (
     <div className='col-4'>
       <div className='product__item'>
-        <img src='' alt='' />
-        <h3>Dropbox</h3>
-        <p>
+        <img src='../../assets/product-item1' alt='' />
+        <h3 className='products__title'>Dropbox</h3>
+        <p className='products__description'>
           Dropbox is a file hosting service that offers cloud storage, file synchronization, a
           personal cloud.
         </p>
