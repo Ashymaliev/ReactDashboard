@@ -1,6 +1,6 @@
 import React from 'react';
 import bigImg from '../../assets/product-background.png';
-import productLogo from '../../assets/product-icon.svg';
+import productLogo from '../../assets/product__logo.svg';
 
 const ProductHeader = () => {
   return (

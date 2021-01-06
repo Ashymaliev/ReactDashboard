@@ -8,6 +8,10 @@ const useStyles = makeStyles((theme) => ({
   plusIcon: {
     margin: '0 10px 0 0',
   },
+  color: {
+    backgroundColor: '#47B881',
+    color: '#fff'
+  }
 }));
 
 export function PrimaryBtn({ text, handleClickModal }) {
@@ -28,7 +32,6 @@ export function GreenBtn({ text, handleClickModal }) {
     </Button>
   );
 }
-
 
 export const BtnGoBack = () => {
   return (
