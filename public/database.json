@@ -264,6 +264,31 @@
                 "productDescription": "Squarespace provides software as a service for website building and hosting. Headquartered in NYC.",
                 "updatedTime": "13",
                 "downloads": "1433"
-          }
+          },
+
+          {
+            "id": 6,
+            "productLogo": "https://cdn.mos.cms.futurecdn.net/SDDw7CnuoUGax6x9mTo7dd.jpg",
+            "productName": "Slack",
+            "productDescription": "Slack is a cloud-based set of team collaboration tools and services, founded by Stewart Butterfield.",
+            "updatedTime": "3",
+            "downloads": "143"
+      },
+      {
+            "id": 7,
+            "productLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Lyft_logo.svg/1200px-Lyft_logo.svg.png",
+            "productName": "Lyft",
+            "productDescription": "Lyft is an on-demand transportation company based in San Francisco, California.",
+            "updatedTime": "5",
+            "downloads": "24"
+      },
+      {
+            "id": 8,
+            "productLogo": "https://pngimg.com/uploads/github/github_PNG40.png",
+            "productName": "GitHub",
+            "productDescription": "GitHub is a web-based hosting service for version control of code using Git.",
+            "updatedTime": "1",
+            "downloads": "23243"
+      }  
     ]
     }
